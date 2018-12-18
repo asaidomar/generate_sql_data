@@ -1,0 +1,872 @@
+nom	genre	editeur	date_sortie
+#killallzombies	Shooter	Beatshapers	Nov 12, 2014
+10 Second Ninja X	Platform	Curve Digital	Jul 19, 2016
+100ft Robot Golf	Sports	No Goblin	Oct 10, 2016
+101 Ways to Die	Platform, puzzle	Vision Games	Mar 22, 2016
+11-11: Memories Retold	Adventure	Bandai Namco Ent.	Nov 9, 2018
+140	Platform	Abstraction Games	Sep 1, 2016
+1001 Spikes	Platform	Nicalis	Oct 7, 2015
+13 Sentinels: Aegis Rim	Mecha	Atlus	TBA
+2064: Read Only Memories	Adventure	MidBoss	Jan 17, 2017
+20XX	Action, platform	Batterystaple Games	Jul 10, 2018
+The 25th Ward: The Silver Case	Visual novel	NIS America	Mar 13, 2018
+2Dark	Horror, stealth	Bigben Interactive	Mar 10, 2017
+428: Shibuya Scramble	Visual novel	Spike Chunsoft	Sep 21, 2018
+7 Days to Die	Survival	Telltale Publishing	Jul 1, 2016
+8-bit Adventure Anthology: Volume I	Point-and-click adventure	Abstraction Games	Oct 31, 2017
+8-Bit Armies	Real-time strategy	Soedesco	TBA
+8-Bit Hordes	Real-time strategy	Soedesco	TBA
+88 Heroes	Platform	Rising Star Games	Mar 24, 2017
+911 Operator	Platform	Code Horizon	Nov 8, 2017
+99Vidas	Beat 'em up	QuByte Interactive	Dec 8, 2017
+A-Train Express	Simulation	Artdink	Unreleased
+Aaero	Shooter	Reverb Triple XP	Apr 11, 2017
+Aaru's Awakening	Platform	Lumenox Games	Apr 8, 2015
+A Boy and His Blob	Platform, puzzle	Majesco Entertainment	Jan 19, 2016
+Absolute Drift: Zen Edition	Racing	Flippfly	Aug 16, 2016
+Absolver	Action RPG	Devolver Digital	Aug 29, 2017
+Abzû	Adventure, art	505 Games	Aug 2, 2016
+Accel World VS Sword Art Online	Action RPG	Bandai Namco Entertainment	Jul 7, 2017
+Ace Combat 7: Skies Unknown	Flight simulator	Bandai Namco Entertainment	Jan 18, 2019
+A Certain Magical Virtual-On	Action	Sega	Unreleased
+Act It Out! A Game of Charades	Party	Snap Finger Click	Jan 12, 2016
+Action Henk	Platform	Curve Digital	Mar 8, 2016
+Adrift	First-person	505 Games	Jul 15, 2016
+The Adventure Pals	Adventure, role-playing	Armor Games	Apr 3, 2018
+Adventures of Pip	Platform	Tic Toc Games	Feb 9, 2016
+Adventures of Scarlet Curiosity	Action role-playing	Mediascape	Unreleased
+Adventure Time: Finn & Jake Investigations	Action-adventure	Little Orbit	Nov 6, 2015
+Aegis Defenders	Action, strategy	Guts Department	Feb 8, 2018
+Aegis of Earth: Protonovus Assault	Tower defense	Aksys Games	Apr 22, 2016
+AER: Memories of Old	Adventure	Daedalic Entertainment	Oct 25, 2017
+AeternoBlade	Action	Corcell Technology	Aug 5, 2015
+AFL Evolution	Sports	Tru Blu Entertainment
+Agatha Christie: The ABC Murders	Point-and-click adventure	Microïds	Feb 4, 2016
+Agents of Mayhem	Action, third-person	Deep Silver	Aug 18, 2017
+Agony	Survival horror	PlayWay	May 29, 2018
+A Hat in Time	Platform	Gears for Breakfast	Dec 6, 2017
+A Healer Only Lives Twice	Dungeon crawl	Platine Dispositif	Jul 25, 2017
+AIPD	Shoot 'em up	Blazing Badger	Jan 29, 2016
+Air Conflicts: Pacific Carriers	Flight simulator	Kalypso Media	Nov 6, 2015
+Air Conflicts: Vietnam	Flight simulator	bitComposer Interactive	Unreleased
+Airport Architect	Simulation	UIG Entertainment	TBA
+Airship Q	Action role-playing	Miracle Positive	Unreleased
+AI: The Somnium Files	Adventure	Spike Chunsoft	TBA
+Akiba's Beat	Action role-playing	Marvelous USA	Mar 19, 2017
+Akiba's Trip: Undead & Undressed	Action role-playing	Marvelous USA	Feb 13, 2015
+Alaloth: Champions of The Four Kingdoms	Action role-playing	Gamera	2018
+Alekhine's Gun	Action, stealth	Maximum Games	Mar 11, 2016
+Alienation	Shoot 'em up	Sony Interactive Entertainment	Apr 26, 2016
+Alien: Isolation	Survival horror	Sega	Oct 7, 2014
+Alone with You	Adventure	Benjamin Rivers	Aug 23, 2016
+Always Sometimes Monsters	RPG	Devolver Digital	Oct 10, 2017
+Amazing Discoveries in Outer Space	Platform	Cosmic Picnic	Feb 3, 2016
+The Amazing Spider-Man 2	Action-adventure	Activision	May 2, 2014
+Amnesia Collection	Survival horror	Frictional Games	Nov 22, 2016
+Among the Sleep	Survival horror	Krillbite Studio	Dec 10, 2015
+Amplitude	Music, rhythm	Harmonix	Jan 5, 2016
+Anamorphine	Adventure	Artifact 5	2018
+Anarcute	Action	AnarTeam	Unreleased
+Anew: The Distant Light	Action, puzzle	Resonator	TBA
+Angry Birds Star Wars	Puzzle	Activision	Nov 29, 2013
+Anima: Gate of Memories	Action role-playing	BadLand Games	Jun 3, 2016
+Anodyne	Role-playing	Nnooo	TBA
+Anoko wa Ore kara Hanarenai [ja]	Visual novel	TGL	Unreleased
+Anomaly 2	Real-time strategy	11 bit studios	Sep 17, 2014
+Anonymous;Code	Visual novel	5pb.	Unreleased
+Another World: 20th Anniversary Edition	Cinematic platformer	The Digital Lounge	Jun 25, 2014
+Anthem	Action role-playing	Electronic Arts	Feb 22, 2019
+Antiquia Lost	RPG	Kemco	Sep 5, 2017
+AO Tennis	Sports	Big Ant Studios	Jan 16, 2018
+A Pixel Story	Platform, puzzle	Rising Star Games	Feb 24, 2017
+A Plague Tale: Innocence	Action-adventure	Focus Home Int.	2019
+Apotheon	Action role-playing, platform	Alientrap	Feb 3, 2015
+Aqua Moto Racing Utopia	Racing	Zordix AB	Nov 30, 2016
+Aragami	Action, stealth	Merge Games	Oct 4, 2016
+Arcade Archives: A-Z	Assorted	Hamster	Assorted
+Arcade Game Series: A-Z	Assorted	Bandai Namco Ent.	Assorted
+Arcania: The Complete Tale	Action role-playing	Nordic Games	May 8, 2015
+Ark: Survival Evolved	Action, survival	Studio Wildcard	Aug 29, 2017
+Armello	Board game, role-playing	League of Geeks	Sep 1, 2015
+Arslan: The Warriors of Legend	Action	Koei Tecmo	Feb 12, 2016
+Art of Balance	Puzzle	Shin'en Multimedia	Jun 3, 2016
+Asdivine Hearts	RPG	Kemco	Nov 7, 2017
+Asemblance	Adventure	Nilo Studios	Jul 26, 2016
+Ashen Rift	Survival horror	Pyroclastic Games	TBA
+Ashes Cricket	Sports	Big Ant Studios	Nov 16, 2017
+Assassin's Creed Chronicles	Action-adv, stealth	Ubisoft	Assorted
+Assassin's Creed IV: Black Flag	Action-adv, stealth	Ubisoft	Nov 22, 2013
+Assassin's Creed Odyssey	Action-adventure	Ubisoft	Oct 5, 2018
+Assassin's Creed: Origins	Action-adv, stealth	Ubisoft	Oct 27, 2017
+Assassin's Creed Rogue Remastered	Action-adventure	Ubisoft	Mar 20, 2018
+Assassin's Creed Syndicate	Action-adv, stealth	Ubisoft	Oct 23, 2015
+Assassin's Creed: The Ezio Collection	Action-adventure	Ubisoft	Nov 15, 2016
+Assassin's Creed Unity	Action-adv, stealth	Ubisoft	Nov 13, 2014
+Assault Android Cactus	Shoot 'em up	Witch Beam	Mar 8, 2016
+Assault Suit Leynos	Shooter	Extreme	Jul 14, 2016
+The Assembly	Adventure	nDreams	Oct 13, 2016
+Assetto Corsa	Racing	505 Games	Aug 26, 2016
+Astraea	City-building	Norwind Int	TBA
+Atari Flashback Classics: Volume 1	Arcade	Atari	Jan 18, 2017
+Atari Flashback Classics: Volume 2	Arcade	Atari	Jan 18, 2017
+Atari Flashback Classics: Volume 3	Arcade	Atari	TBA
+Atelier Firis: The Alchemist and the Mysterious Journey	RPG	Koei Tecmo	Mar 7, 2017
+Atelier Lydie & Suelle: Alchemists of the Mysterious Painting	RPG	Koei Tecmo	Mar 30, 2018
+Atelier Sophie: The Alchemist of the Mysterious Book	RPG	Tecmo Koei	Jun 10, 2016
+Attack on Titan	Action	Koei Tecmo	Aug 26, 2016
+Attack on Titan 2	Action	Koei Tecmo	Mar 20, 2018
+Attractio	First-person, puzzle	Bandai Namco Ent.	Feb 17, 2016
+ATV Drift & Tricks	Racing	Funbox Media	Oct 26, 2017
+Aven Colony	Simulation	Team17	Jul 25, 2017
+Away: Journey to the Unexpected	Roguelike	Playdius Ent.	Feb 5, 2019
+A Way Out	Action-adventure	Electronic Arts	Mar 23, 2018
+Awesomenauts Assemble	Battle arena	Ronimo Games	Mar 5, 2014
+Axiom Verge	Metroidvania	Thomas Happ Games	Mar 31, 2015
+Azkend 2: The World Beneath	Puzzle	10tons	May 4, 2016
+Aztez	Turn-based strategy	Team Colorblind	TBA
+Babylon's Fall	Action-adventure	Square Enix	2019
+Backgammon Blitz	Board game	VooFoo Studios	Dec 18, 2013
+Back to Bed	Puzzle	Loot Ent	Aug 25, 2015
+Back to the Future: The Game – 30th Anniversary Edition	Adventure	Telltale Games	Oct 13, 2015
+Badass Hero	Action, platform	Awesome Games	2018
+Badland: Game of the Year Edition	Platform	Frogmind	May 28, 2015
+Baja: Edge of Control HD	Racing	THQ Nordic	Sep 14, 2017
+The Banner Saga	Tactical role-playing	Versus Evil	Jan 12, 2016
+The Banner Saga 2	Tactical role-playing	Versus Evil	Jul 5, 2016
+The Banner Saga 3	Tactical role-playing	Versus Evil	Jul 26, 2018
+The Bard's Tale IV: Barrows Deep	Dungeon crawler	inXile Entertainment	TBA
+Bastion	RPG	Warner. Bros. Int. Ent.	Apr 8, 2015
+Basement Crawl	Action, strategy	Bloober Team	Feb 26, 2014
+Batman: Arkham Knight	Action-adventure	Warner Bros Int Ent	Jun 23, 2015
+Batman: Return to Arkham	Action-adventure	Warner Bros. Int. Ent.	Oct 18, 2016
+Batman: The Telltale Series	Graphic adventure	Telltale Games	Aug 2, 2016
+Batman: The Enemy Within	Graphic adventure	Telltale Games	Aug 8, 2017
+Battalion 1944	First-person shooter	Square Enix	TBA
+Battle Chasers: Nightwar	RPG	Nordic Games	Oct 3, 2017
+Battlefield 1	First-person shooter	Electronic Arts	Oct 21, 2016
+Battlefield 4	First-person shooter	Electronic Arts	Nov 29, 2013
+Battlefield V	First-person shooter	Electronic Arts	Oct 19, 2018
+Battlefield Hardline	First-person shooter	Electronic Arts	Mar 19, 2015
+Battle Garegga Rev.2016	Shoot 'em up	M2	Unreleased
+Battle of the Bulge	Strategy	Slitherine Software	Nov 22, 2017
+Battleship	Strategy	Ubisoft	Aug 12, 2016
+Battlestar Galactica: Deadlock	Strategy	Black Lab Games	Dec 8, 2017
+Battle Worlds: Kronos	Turn-based strategy	Nordic Games	Apr 26, 2016
+Bears Can't Drift!?	Racing	Strangely Named	Aug 9, 2016
+Beast Quest	RPG	Maximum Games	Mar 16, 2018
+Beat the Game	Adventure	Worm Animation	TBA
+Bedlam	First-person shooter	Standfast Int.	Oct 14, 2015
+Ben 10	Action-adventure	Bandai Namco Ent.	Nov 10, 2017
+Bendy and the Ink Machine	Action, horror, puzzle	Rooster Teeth Games	Nov 20, 2018
+Berserk and the Band of the Hawk	Action RPG, hack and slash	Koei Tecmo	Feb 24, 2017
+Beyond Eyes	Adventure	Team17	Sep 8, 2015
+Beyond: Two Souls	Interactive drama	Sony Computer Ent.	Nov 26, 2015
+Big Bash Boom	Sports	Big Ant Studios
+Binaries	Platform, puzzle	Ground Shatter	Aug 30, 2016
+The Binding of Isaac: Rebirth	Action-adv, roguelike	Nicalis	Nov 5, 2014
+Biomutant	Action RPG	THQ Nordic	2019
+BioShock: The Collection	First-person shooter	2K Games	Sep 16, 2016
+Birthdays the Beginning	Strategy	NIS America	May 12, 2017
+The Bit.Trip	Action	Choice Provisions	Dec 5, 2015
+Black & White Bushido	Brawler, stealth	Endemol	May 17, 2017
+Black the Fall	Puzzle-platform	Square Enix	Jul 11, 2017
+Blade Strangers	Fighting	Nicalis	Aug 28, 2018
+Blackguards: Definitive Edition	Turn-based tactics	Kalypso Media	TBA
+Black Desert Online	MMORPG	Pearl Abyss	2019
+Blackguards 2	Turn-based tactics	Kalypso Media	Sep 15, 2017
+Blackhole: Complete Edition	Platform, puzzle	FiolaSoft Studio	Aug 8, 2017
+Blackwood Crossing	Adventure	PaperSeven	Apr 4, 2017
+Blade Arcus from Shining EX	Fighting	Sega	Unreleased
+Blade Ballet	Action, battle	DreamSail Games	Unreleased
+Bladestorm: Nightmare	Real-time tactics	Koei Tecmo	Mar 20, 2015
+Blast 'Em Bunnies	Shooter	Nnooo	Mar 9, 2016
+Blast Brawl 2	Fighting, platform	Mind's Eye Games	TBA
+Blasting Agent Ultimate Edition	Platform, shooter	Ratalaika Games	TBA
+BlazBlue: Central Fiction	Fighting	Aksys Games	Nov 4, 2016
+BlazBlue Chrono Phantasma Extend	Fighting	Aksys Games	Oct 23, 2015
+BlazBlue: Cross Tag Battle	Fighting	Arc System Works	Jun 5, 2018
+Blazerush	Vehicular combat	Targem Games	Dec 15, 2015
+Bleed	Platform	Digerati	Aug 23, 2017
+Bleed 2	Platform	Digerati	Feb 6, 2018
+Bloodborne	Action RPG	Sony Computer Ent.	Mar 25, 2015
+Blood Bowl 2	Sport, turn-based strategy	Focus Home Int.	Sep 22, 2015
+Bloodstained: Ritual of the Night	Metroidvania	505 Games	2019
+Bloons TD 5	Strategy, puzzle	Ninja Kiwi	May 9, 2017
+Blue Estate	First-person shooter	Focus Home Int.	Jun 24, 2014
+Blue Reflection	RPG	Koei Tecmo	Sep 29, 2017
+Blue Rider	Shooter	Ravegan	Sep 9, 2016
+Blues and Bullets	Action-adventure	A Crowd of Monsters	Apr 20, 2016
+Boiling Bolt	Shoot 'em up	Playdius Ent.	Dec 5, 2017
+Bokosuka Wars II	Strategy	Pygmy Studio	Unreleased
+Bomber Crew	Simulation, strategy	Curve Digital	Jul 10, 2018
+The Book of Unwritten Tales 2	Adventure	505 Games	Sep 18, 2015
+Borderlands: The Handsome Collection	First-person shooter	2K Games	Mar 27, 2015
+Bound	3D platform, art	Sony Interactive Ent.	Aug 16, 2016
+Bound by Flame	Action RPG	Focus Home Int.	May 7, 2014
+Boundless	Sandbox	Wonderstruck Games	Sep 11, 2018
+Brawl	Action, party	Bloober Team	Apr 28, 2015
+Brawlout	Fighting	Angry Mob Games	Aug 21, 2018
+The Bridge	Puzzle	TQAG	Aug 18, 2015
+Bridge Constructor	Simulation	Headup Games	Dec 14, 2016
+Bridge Constructor Portal	Simulation	Headup Games	Feb 28, 2018
+Bridge Constructor Stunts	Simulation	Headup Games	Mar 27, 2018
+Broforce	Platform, run and gun	Devolver Digital	Mar 1, 2016
+Broken Age: The Complete Adventure	Point-and-click adventure	Double Fine Prod.	Apr 29, 2015
+Broken Sword 5	Point-and-click adventure	Revolution Software	Sep 4, 2015
+Brothers: A Tale of Two Sons	Puzzle, adventure	505 Games	Aug 12, 2015
+Brutal	Action RPG	Stormcloud Games	Aug 9, 2016
+Bubsy: Paws on Fire!	Platformer	Accolade	2019
+Bubsy: The Woolies Strike Back	Platform	Accolade	Oct 31, 2017
+The Bug Butcher	Action	Triangle Studios	Oct 18, 2016
+BugsBox	Action, puzzle	Park ESM	Jun 5, 2017
+Bulletstorm: Full Clip Edition	First-person shooter	Gearbox Software	Apr 7, 2017
+Burnout Paradise Remastered	Racing	Electronic Arts	Mar 16, 2018
+Bush Hockey League	Sport	V7 Ent.	Mar 28, 2017
+Butcher	Shooter	Crunching Koalas	May 9, 2017
+Caladrius Blaze	Shoot 'em up	H2 Interactive	Aug 9, 2016
+The Caligula Effect: Overdose	RPG	FuRyu	Unreleased
+Call of Cthulhu	Adventure, horror	Focus Home Int.	Oct 30, 2018
+Call of Duty: Advanced Warfare	First-person shooter	Activision	Nov 4, 2014
+Call of Duty: Black Ops III	First-person shooter	Activision	Nov 6, 2015
+Call of Duty: Black Ops IIII	First-person shooter	Activision	Oct 12, 2018
+Call of Duty: Ghosts	First-person shooter	Activision	Nov 29, 2013
+Call of Duty: Infinite Warfare	First-person shooter	Activision	Nov 4, 2016
+Call of Duty: Modern Warfare Remastered	First-person shooter	Activision	Nov 4, 2016
+Call of Duty: WWII	First-person shooter	Activision	Nov 3, 2017
+Calvino Noir	Adventure	Calvino Noir	Aug 25, 2015
+Candlelight	Platform	Pixel Maverick	Unreleased
+Candleman: The Complete Journey	Puzzle	Zodiac Interactive	Aug 21, 2018
+Cannon Brawl	2D, action, strategy	Turtle Sandbox	Aug 2, 2016
+Capsule Force	Action	Iron Galaxy Studios	Jul 23, 2015
+Carmageddon: Max Damage	Vehicular combat	Stainless Games	Jul 8, 2016
+Cars 3: Driven to Win	Racing	Warner Bros.	Jul 14, 2017
+Car Mechanic Simulator 2018	Simulation	PlayWay S.A.	TBA
+Cartoon Network: Battle Crashers	Beat em up	GameMill Ent.	Nov 8, 2016
+Casey Powell Lacrosse 16	Sport	Big Ant Studios	Mar 9, 2016
+The Castle Game	Tower defense	Neptune Inc	Aug 5, 2015
+Castles	Puzzle	BadLand Indie	Jun 29, 2016
+CastleStorm: Definitive Edition	Strategy	Zen Studios	Oct 15, 2014
+Castlevania Requiem	Platform-adventure	Konami	Oct 26, 2018
+Catherine: Full Body	Puzzle-platform	Atlus	2019
+Catlateral Damage	Simulation	Fire Hose Games	Jun 13, 2016
+Cat Quest	RPG	PQube	Nov 10, 2017
+Cel Damage HD	Racing	Finish Line Games	May 14, 2014
+Celeste	Platform	Matt Makes Games	Jan 25, 2018
+Chambara	Action	USC Games	Unreleased
+Chaos;Child	Visual novel	5pb.	Oct 13, 2017
+Chaos Code: New Sign of Catastrophe	Fighting	Arc System Works	Mar 15, 2017
+Chaos on Deponia	Point-and-click adventure	Daedalic Ent.	Dec 6, 2017
+Chariot	Adventure, platform	Frima Studio	Oct 29, 2014
+Chasm	RPG, platform	Discord Games	Jul 31, 2018
+Check-in, Knock-out	Fighting, platform	tinyBuild	2018
+Chess Ultra	Chess	Ripstone Ltd	Jun 21, 2017
+Child of Light	RPG	Ubisoft	Apr 30, 2014
+Children of Morta	Hack and slash	Dead Mage	TBA
+Children of Zodiarcs	Tactical RPG	Square Enix	Jul 18, 2017
+Chimparty	Arcade, party	Sony Interactive Ent.	Nov 14, 2018
+Chime Sharp	Music, puzzle	Chilled Mouse	Feb 21, 2017
+Chivalry: Medieval Warfare	Action	Activision	Dec 1, 2015
+ChromaGun	First-Person shooter, puzzle	Pixel Maniacs	Aug 22, 2017
+Chroma Squad	Turn-based	Bandai Namco Ent.	May 19, 2017
+Chronicles of Teddy: Harmony of Exidus	Adventure	Aksys Games	Mar 29, 2016
+The Church in the Darkness	Action	Paranoid Prod.	2018
+Cities: Skylines	Simulation	Paradox Interactive	Aug 15, 2017
+Citizens of Earth	RPG	Eden Industries	Jan 21, 2015
+City Shrouded in Shadow	Action	Bandai Namco Ent.	Unreleased
+Claire: Extended Cut	Adventure	Hailstorm Games	Aug 30, 2016
+Clannad	Visual novel	Prototype	Unreleased
+Claybook	Puzzle	Second Order	2018
+Clockwork Tales: Of Glass and Ink	Hidden object	Artifex Mundi	Nov 29, 2016
+Clustertruck	Platform	tinyBuild	Sep 27, 2016
+Code Vein	Action	Bandai Namco Ent.	2019
+Coffin Dodgers	Racing	Wales Interactive	May 3, 2016
+Collectems	RPG	The Layabouts	TBA
+Comet Crash 2	Real-time strategy	Pelfast	Aug 8, 2017
+Commander Cherry's Puzzled Journey	Platform	Grande Games	Aug 11, 2015
+Conan Exiles	Open world, survival	Koch Media	May 8, 2018
+Concrete Genie	Adventure	Sony Interactive Ent.	2018
+Conga Master	Action	Rising Star Games	Jul 21, 2017
+Construction Simulator 2 US - Console Edition	Simulation, strategy	astragon Ent.	Sep 12, 2018
+Constructor HD	Simulation	System 3	May 26, 2017
+Contrast	Platform, puzzle	Compulsion Games	Nov 29, 2013
+Control	Third-person shooter	505 Games	2019
+Cook, Serve, Delicious! 2	Simulation	Vertigo Gaming	TBA
+Cosmic Star Heroine	RPG	Zeboyd Games	Apr 11, 2017
+Cosmochoria	Adventure	Curve Digital	TBA
+Costume Quest 2	Adventure, RPG	Double Fine Prod.	Oct 31, 2014
+The Count Lucanor	Action-adventure	Merge Games	Jan 9, 2018
+CounterSpy	Side-scroller, stealth	Sony Computer Ent.	Aug 20, 2014
+Crash Bandicoot N. Sane Trilogy	Platform	WW: Activision JP:Sony Interactive Ent.	Jun 30, 2017
+Crawl	Roguelike, brawler	Powerhoof	Apr 11, 2017
+Crazy Strike Bowling EX	Sport	Corecell Tech	Jun 14, 2016
+The Crew	Racing	Ubisoft	Dec 2, 2014
+The Crew 2	Racing	Ubisoft	Jun 29, 2018
+Crossing Souls	Action-adventure	Devolver Digital	Feb 13, 2018
+Crows: Burning Edge	Action-adventure	Bandai Namco Ent.	Unreleased
+Cyberdimension Neptunia: 4 Goddesses Online	Action RPG	Compile Heart Idea Factory Int.	Oct 10, 2017
+Cyberpunk 2077	Action RPG	CD Projekt Red	TBA
+Cryptark	Shoot 'em up	Alientrap	Jun 20, 2017
+Crypt of the NecroDancer	Roguelike, rhythm	Brace Yourself Games	Feb 2, 2016
+Cubers	Brawler	Teyon	TBA
+Cube Life: Island Survival HD	Sandbox	Cypronia	2018
+Curses 'N Chaos	Action	Tribute Games	Aug 18, 2015
+Daisenryaku: Dai Toua Kouboushi 3	War simulation	SystemSoft Alpha	Unreleased
+Dandara	Platform	Raw Fury	Feb 6, 2018
+Danganronpa 1&2 Reload	Adventure, visual novel	NIS America	Mar 17, 2017
+Danganronpa V3: Killing Harmony	Adventure, visual novel	NIS America	Sep 29, 2017
+Dangerous Golf	Sport	Three Fields Ent.	Jun 2, 2016
+Danger Zone	Racing	Three Fields Ent.	May 30, 2017
+Dangun Feveron	Shoot 'em up	Cave	Apr 4, 2018
+Dariusburst Chronicle Saviours	Shoot 'em up	Degica	Dec 8, 2015
+Dark Rose Valkyrie	RPG	Idea Factory	Jun 9, 2017
+Dark Souls Remastered	Action RPG	Bandai Namco Ent.	May 25, 2018
+Dark Souls II	Action RPG	Bandai Namco Ent.	Apr 9, 2015
+Dark Souls III	Action RPG	Bandai Namco Ent.	Apr 12, 2016
+Darkest Dungeon	Turn-based strategy	Red Hook Studios	Sep 27, 2016
+Darksiders: Warmastered Edition	Action RPG	Nordic Games	Nov 22, 2016
+Darksiders II: Deathinitive Edition	Action RPG, hack and slash	Nordic Games	Oct 27, 2015
+Darksiders III	Action RPG, hack and slash	Nordic Games	Nov 27, 2018
+Daylight	Survival horror	Atlus	Apr 30, 2014
+Daymare: 1998	Survival horror	Invader Studios	TBA
+Day of the Tentacle: Remastered Edition	Graphic adventure	Double Fine Prod.	Mar 22, 2016
+Days Gone	Open world, survival	Sony Interactive Ent.	Apr 26, 2019
+DayZ	Survival horror	Bohemia Int.	TBA
+Dead Alliance	First-person shooter	Maximum Games	Aug 29, 2017
+Dead by Daylight	Survival Horror	Starbreeze Studios	Jun 23, 2017
+Dead Cells	Action, roguelike	Motion Twin	Aug 7, 2018
+Dead Island Definitive Edition	Survival horror	Deep Silver	May 31, 2016
+Dead Island: Riptide Definitive Edition	Survival horror	Deep Silver	May 31, 2016
+Dead Island 2	Action RPG, survival horror	Deep Silver	TBA
+Dead Nation: Apocalypse Edition	Shoot 'em up	Sony Computer Ent.	Mar 5, 2014
+Dead or Alive 5 Last Round	Fighting	Koei Tecmo	Feb 20, 2015
+Dead or Alive 6	Fighting	Koei Tecmo	Feb 19, 2019
+Dead or Alive Xtreme 3	Sport	Koei Tecmo	Unreleased
+Deadlight: Director's Cut	Survival horror	Deep Silver	Jun 21, 2016
+The Deadly Tower of Monsters	Action-adventure	Atlus	Jan 19, 2016
+Deadpool	Action, beat 'em up	Activision	Nov 20, 2016
+Dead Rising	Survival horror	Capcom	Sep 13, 2016
+Dead Rising 2	Survival horror	Capcom	Sep 13, 2016
+Dead Rising 2: Off the Record	Survival horror	Capcom	Sep 13, 2016
+Dead Rising 4	Survival horror	Capcom	Dec 5, 2017
+Dead Star	Shoot 'em up	Armature Studio	Apr 5, 2016
+Dead Synchronicity: Tomorrow Comes Today	Point-and-click adventure	Daedalic Ent.	Apr 10, 2015
+Dear Esther	Exploration	Curve Digital	Sep 20, 2016
+Death end re;Quest	RPG	Compile Heart	Unreleased
+Death Stranding	Action	Sony Computer Int.	TBA
+Death Squared	Puzzle	SMG Studios	Mar 14, 2017
+Death's Gambit	Action RPG	Adult Swim Games	Aug 14, 2018
+De Blob	Platform, puzzle	THQ Nordic	Nov 14, 2017
+Deception IV: The Nightmare Princess	Action, strategy RPG	Tecmo Koei	Jul 17, 2015
+Defenders of Ekron	Shoot 'em up	In Vitro Games	Aug 15, 2017
+Defense Grid 2	Tower defense	505 Games	Oct 1, 2014
+Deformers	MOBA	Ready at Dawn	Feb 14, 2017
+Deiland	Adventure, RPG	Square Enix	TBA
+Demetrios: The Big Cynical Adventure	Point-and-click adventure	CowCat	May 31, 2016
+Demon's Age	RPG	Big Moon Studios	TBA
+Demon Gaze II	Dungeon crawler	Kadokawa Games (JP) NIS America (NA/EU)	Nov 14, 2017
+Dengeki Bunko: Fighting Climax Ignition	Fighting	Sega	Unreleased
+Deponia	Point-and-click adventure	Daedalic Ent.	Dec 1, 2016
+Descenders	Sport	No More Robots	2018
+Destiny	Action RPG, first-person shooter	Activision	Sep 9, 2014
+Destiny 2	Action RPG, first-person shooter	Activision	Sep 6, 2017
+Detroit: Become Human	Interactive drama	Sony Computer Ent.	May 25, 2018
+Deus Ex: Mankind Divided	First-person shooter, stealth	Square Enix	Aug 23, 2016
+Devil May Cry HD Collection	Action-adventure, hack and slash	Capcom	Mar 13, 2018
+Devil May Cry 4: Special Edition	Action-adventure, hack and slash	Capcom	Jun 24, 2015
+Devil May Cry 5	Action-adventure, hack and slash	Capcom	Mar 8, 2019
+Dex	Acton RPG	BadLand Indie	Jul 8, 2016
+Diablo III	Action RPG, hack and slash	Blizzard Ent.	Aug 19, 2014
+Digimon Story: Cyber Sleuth	RPG	Bandai Namco Ent.	Feb 5, 2016
+Digimon Story: Cyber Sleuth - Hacker's Memory	RPG	Bandai Namco Ent.	Jan 19, 2018
+Digimon Survive	Role-playing	Bandai Namco Entertainment	2019
+Digimon World: Next Order	RPG	Bandai Namco Ent.	Jan 27, 2017
+Dirt 4	Racing	Codemasters	Jun 9, 2017
+Dirt Rally	Racing	Codemasters	Apr 5, 2016
+Disc Jam	Action, sport	High Horse Ent.	Mar 7, 2017
+Disgaea 1 Complete	Tactical RPG	Nippon Ichi Software	Oct 12, 2018
+Disgaea 5 Complete	Tactical RPG	Nippon Ichi Software	Oct 16, 2015
+Dishonored: Definitive Edition	Action	Bethesda Softworks	Aug 28, 2015
+Dishonored 2	Action	Bethesda Softworks	Nov 11, 2016
+Dishonored: Death of the Outsider	Action	Bethesda Softworks	Sep 15, 2017
+The Disney Afternoon Collection	Platform	Capcom	Apr 18, 2017
+Disney Infinity: Marvel Super Heroes	Action-adventure	Disney Int. Studios	Sep 18, 2014
+Disney Infinity 3.0	Action-adventure	Disney Int. Studios	Aug 28, 2015
+Dissidia Final Fantasy NT	Fighting	Square Enix	Jan 30, 2018
+Distance	Racing	Refract Studios	2018
+Divekick	Fighting	Iron Galaxy Studios	Oct 7, 2014
+Divide	Action-adventure	Exploding Tuba Studios	Jan 31, 2017
+Divinity: Original Sin	RPG	Focus Home Int.	Oct 27, 2015
+Divinity: Original Sin II	RPG	Larian Studios	Aug 31, 2018
+DJMax Respect	Rhythm	Neowiz Games	Unreleased
+DmC: Devil May Cry Definitive Edition	Action-adventure, hack and slash	Capcom	Mar 10, 2015
+Dogos	Shooter	Opqam	Sep 6, 2016
+Doki-Doki Universe	Adventure	HumaNature Studios	Dec 10, 2013
+Dollhouse	Horror	Soedesco	2018
+Donut County	Puzzle	Annapurna Int.	Aug 28, 2018
+Doodle Devil	Puzzle	8Floor	Mar 23, 2016
+Doodle God	Puzzle	4Hit	Jan 29, 2016
+Don Bradman Cricket	Sport	Home Ent. Suppliers	Assorted
+Don Bradman Cricket 17	Sport	Tru Blu Ent.	Dec 16, 2016
+Don't Die, Mr. Robot!	Action	Infinite State Games	Mar 8, 2016
+Don't Starve	Action-adventure	Klei Ent.	Jan 8, 2014
+Don't Starve Together	Action-adventure	Klei Ent.	Sep 13, 2017
+Doom	First-person shooter	Bethesda Softworks	May 13, 2016
+Doom Eternal	First-person shooter	Bethesda Softworks	TBA
+Downwell	Platform, vertically scrolling shooter	Devolver Digital	May 24, 2016
+Dragon Age: Inquisition	RPG	Electronic Arts	Nov 21, 2014
+Dragon Ball FighterZ	Fighting	Bandai Namco Ent.	Jan 26, 2018
+Dragon Ball Xenoverse	Fighting	Bandai Namco Ent.	Feb 13, 2015
+Dragon Ball Xenoverse 2	Fighting	Bandai Namco Ent.	Oct 28, 2016
+Dragon Fantasy: The Black Tome of Ice	RPG	Muteki Corp.	Unreleased
+Dragon Fin Soup	RPG, roguelike	Grimm Bros	Nov 3, 2015
+Dragon's Crown Pro	Action RPG, beat 'em up	Atlus	May 15, 2018
+Dragon Quest Builders	RPG, sandbox	Square Enix	Oct 14, 2016
+Dragon Quest Builders 2	RPG	Square Enix	Unreleased
+Dragon Quest Heroes	RPG	Square Enix	Oct 16, 2015
+Dragon Quest Heroes II	RPG	Square Enix	Apr 28, 2017
+Dragon Quest X	MMORPG	Square Enix	Unreleased
+Dragon Quest XI	RPG	Square Enix	Sep 4, 2018
+Dragon's Dogma: Dark Arisen	Action RPG	Capcom	Oct 3, 2017
+Drawful 2	Party, trivia	Jackbox Games	Jun 21, 2016
+Drawn to Death	MOBA	Sony Interactive Ent.	Apr 4, 2017
+Drifter	Sandbox	Celsius Game Studios	2018
+Dreamfall Chapters: The Longest Journey	Adventure	Deep Silver	Mar 24, 2017
+Dreams	Sandbox	Sony Computer Ent.	2019
+Dreii	Puzzle	bitforge	Mar 9, 2016
+Driveclub	Racing	Sony Computer Ent.	Oct 8, 2014
+Driveclub Bikes	Racing	Sony Computer Ent.	Oct 27, 2015
+Duck Game	Party, platform	Adult Swim Games	Aug 22, 2017
+Duke Nukem 3D: 20th Anniversary World Tour	First-person shooter	Gearbox Software	Oct 11, 2016
+Dungeons 2	Strategy	Kalypso Media	May 27, 2016
+Dungeons 3	Strategy	Kalypso Media	Oct 13, 2017
+Dust: An Elysian Tail	Action RPG	Humble Hearts	Oct 8, 2014
+Dustoff Heli Rescue 2	Action	Ratalaika Games	TBA
+The Dwarves	RPG	King Art Games	Dec 1, 2016
+Dying Light	Action-adventure, survival horror	Warner Bros Ent.	Jan 30, 2015
+Dying Light 2	Action-adventure, survival horror	Techland	2019
+Dynasty Warriors 8: Empires	Hack and slash	Tecmo Koei	Jan 30, 2015
+Dynasty Warriors 8: Xtreme Legends Complete Edition	Action RPG	Tecmo Koei	Apr 4, 2014
+Dynasty Warriors 9	Hack and slash	Koei Tecmo	Feb 13, 2018
+Dynasty Warriors: Godseekers	Tactical RPG	Tecmo Koei	Feb 1, 2017
+Earth Atlantis	Shoot 'em up	Headup Games	2018
+EA Sports UFC	Fighting, sport	Electronic Arts	Jun 17, 2014
+EA Sports UFC 2	Fighting, sport	Electronic Arts	Mar 17, 2016
+EA Sports UFC 3	Fighting, sport	Electronic Arts	Feb 2, 2018
+Earth Defense Force 4.1	Third-person shooter	D3 Publisher	Feb 12, 2016
+Earth Defense Force 5	Action	D3 Publisher	Unreleased
+Earth Defense Force: Iron Rain	Action	D3 Publisher	Unreleased
+Earthfall	First-person shooter	Holospark Games	Jul 13, 2018
+Earthlock: Festival of Magic	RPG	Snowcastle Games	Jan 27, 2017
+Earth Wars	Side-scroller	Rising Star Games	Oct 28, 2016
+Echo	Action, stealth	Ultra Ultra	Oct 11, 2017
+Edge of Eternity	RPG	Midgar Studio	2018
+Eitr	Action RPG	Devolver Digital	2018
+The Elder Scrolls Online	MMORPG	Bethesda Softworks	Jun 9, 2015
+The Elder Scrolls V: Skyrim – Special Edition	Action RPG	Bethesda Softworks	Oct 28, 2016
+Electronic Super Joy	Platform	Michael Todd	Aug 23, 2016
+ELEX	Action RPG	Nordic Games	Oct 17, 2017
+Elliot Quest	Platform-adventure, metroidvania	Ansimuz Games	May 11, 2017
+Elite: Dangerous	Space trading and combat	Frontier Developments	Jun 27, 2017
+Emily Wants to Play	Survival horror	SKH Apps	Aug 9, 2016
+Energy Hook	Action-adventure	Happion Labs	Jul 5, 2016
+Enigmatis: The Ghosts of Maple Creek	Hidden object	Artifex Mundi	Jan 24, 2017
+Enter the Gungeon	Roguelike, shoot 'em up	Devolver Digital	Apr 5, 2016
+Entwined	Action-adventure	Sony Computer Ent.	Jun 9, 2014
+Erica	Interactive drama	Sony Interactive Ent.	TBA
+Escape Plan	Puzzle	Sony Computer Ent.	Nov 29, 2013
+Escape Goat 2	Platform, puzzle	Double Fine Prod.	Nov 26, 2014
+The Escapists	Puzzle, RPG	Team17	May 29, 2015
+The Escapists 2	Strategy RPG	Team17	Aug 22, 2017
+Ether One	Adventure, puzzle	White Paper Games	May 5, 2015
+Euro Fishing	Simulation	Dovetail Games	Apr 11, 2017
+Eve: Valkyrie - Warzone	Space Shooter	CCP Games	Sep 26, 2017
+Eventide: Slavic Fable	Hidden object	Artifex Mundi	Apr 25, 2017
+Everspace	Shooter	BadLand Games	May 29, 2018
+Everybody's Golf	Sport	Sony Computer Ent.	Aug 30, 2017
+Everybody's Gone to the Rapture	Adventure	Sony Computer Ent.	Aug 11, 2015
+Everything	Adventure	Double Fine Prod.	Mar 21, 2017
+The Evil Within	Survival horror	Bethesda Softworks	Oct 17, 2014
+The Evil Within 2	Survival horror	Bethesda Softworks	Oct 13, 2017
+Evolve	First-person shooter	2K Games	Feb 10, 2015
+Exile's End	Action	Xseed Games	Oct 26, 2016
+Exist Archive	Role-playing	Spike Chunsoft	Oct 18, 2016
+Extinction	Action-adventure	Maximum Games	Apr 10, 2018
+F1 2015	Racing	Codemasters	Jun 10, 2015
+F1 2016	Racing	Codemasters	Aug 19, 2016
+F1 2017	Racing	Codemasters	Aug 25, 2017
+Fairy Fencer F: Advent Dark Force	RPG	Idea Factory	Jul 29, 2016
+The Fall	Platform	Over the Moon	Jul 14, 2015
+Fallen Legion: Sins of an Empire	Action RPG	Acttil	Jul 25, 2017
+Fallout 4	Action RPG	Bethesda Softworks	Nov 10, 2015
+Fallout 76	Action RPG	Bethesda Softworks	Nov 14, 2018
+Fantasy Strike	Fighting	Sirlin Games	Q1 2019
+Far Cry 4	First-person shooter	Ubisoft	Nov 20, 2014
+Far Cry 5	First-person shooter	Ubisoft	Mar 27, 2018
+Far Cry Primal	Action-adventure	Ubisoft	Feb 23, 2016
+FAR: Lone Sails	Adventure	Mixtvision	May 17, 2018
+Farming Simulator 15	Simulation	Focus Home Int.	May 21, 2015
+Farming Simulator 17	Simulation	Focus Home Int.	Oct 24, 2016
+Farside	Battle royal	Perfect World Games	TBA
+Fate/Extella: The Umbral Star	Action	Marvelous	Jan 20, 2017
+Fat Princess Adventures	Action-adv, hack and slash	Sony Computer Ent.	Dec 5, 2015
+Fault Milestone One	Visual novel	Sekai Project	TBA
+Fe	Adventure	Electronic Arts	Feb 16, 2018
+Feist	Platform, puzzle	Finji Games	Dec 16, 2016
+Fenix Furia	Platform	Green Lava Studios	Jun 7, 2016
+Feudal Alloy	Metroidvania	Attu Games	TBA
+Fez	Platform, puzzle	Polytron Corp	Mar 26, 2014
+Fibbage	Party, trivia	Jackbox Games	Unreleased
+FIFA 14	Sport	Electronic Arts	Nov 29, 2013
+FIFA 15	Sport	Electronic Arts	Sep 23, 2014
+FIFA 16	Sport	Electronic Arts	Sep 24, 2015
+FIFA 17	Sports	Electronic Arts	Sep 29, 2016
+FIFA 18	Sports	Electronic Arts	Sep 29, 2017
+FIFA 19	Sports	Electronic Arts	Sep 28, 2018
+Fighting EX Layer	Fighting	Arika	Jun 28, 2018
+Figment	Adventure, puzzle	Bedtime Digital	2018
+Filthy Lucre	Action, stealth	Fabrik Games	Sep 7, 2016
+Final Fantasy VII	RPG	Square Enix	Dec 5, 2015
+Final Fantasy VII Remake	Action RPG	Square Enix	TBA
+Final Fantasy IX	RPG	Square Enix	Sep 19, 2017
+Final Fantasy X/X-2 HD Remaster	RPG	Square Enix	May 15, 2015
+Final Fantasy XII: The Zodiac Age	RPG	Square Enix	Jul 11, 2017
+Final Fantasy XIV: A Realm Reborn	MMORPG	Square Enix	Apr 14, 2014
+Final Fantasy XV	Action RPG	Square Enix	Nov 29, 2016
+Final Fantasy Type-0 HD	Action RPG	Square Enix	Mar 20, 2015
+Final Horizon	Tower defense	Eiconic Games	Dec 5, 2014
+The Final Station	Platform	tinyBuild	Sep 6, 2016
+Fire Pro Wrestling World	Sports	Spike Chunsoft	Sep 28, 2018
+Firewatch	Adventure	Campo Santo	Feb 9, 2016
+Fist of the North Star: Lost Paradise	Action-adventure	Sega	Oct 2, 2018
+The Flame in the Flood	Roguelike, survival	Curve Digital	Jan 17, 2017
+Flame Over	Action	Laughing Jackal	Sep 16, 2015
+FlatOut 4: Total Insanity	Racing	Strategy First	Mar 17, 2017
+Flinthook	Action, platform	Tribute Games	Apr 14, 2017
+Flipping Death	Adventure	Zoink	Aug 7, 2018
+Flockers	Puzzle	Team17	Sep 19, 2014
+flOw	Life simulation	Sony Computer Ent.	Nov 29, 2013
+Flower	Adventure	Sony Computer Ent.	Nov 29, 2013
+Fluster Cluck	Party	Loot Ent.	Oct 14, 2017
+For Honor	Adventure	Ubisoft	Feb 14, 2017
+For the King	Action	IronOak Games	TBA
+Forced	Action RPG	BetaDwarf	Nov 29, 2013
+The Forest	Survival adventure	SKS Games	Nov 6, 2018
+Forgotton Anne	Adventure	Square Enix	May 15, 2018
+Forma.8	Action-adventure	MixedBag	Feb 28, 2017
+Foul Play	Action-adv, beat 'em up	Devolver Digital	Feb 23, 2016
+Four Sided Fantasy	Platform, puzzle	Serenity Forge	Aug 31, 2016
+Fragments of Him	Adventure	Sassybot	Sep 26, 2017
+Frantics	Party	NapNok Games	Mar 7, 2018
+Freedom Planet	Platform	GalaxyTrail	Mar 21, 2017
+Friday the 13th: The Game	Survival horror	IllFonic	May 26, 2017
+Full Metal Panic! Fight: Who Dares Wins	Strategy RPG	Bandai Namco Ent.	TBA
+Full Mojo Rampage	Action RPG	Nicalis	Jun 28, 2016
+Full Throttle Remastered	Graphic adventure	Double Fine Prod.	Apr 18, 2017
+Furi	Action, shoot 'em up	The Game Bakers	Jul 5, 2016
+Fushigi no Gensōkyō 3	Dōjin	Mediascape	TBA
+Future Unfolding	Adventure, puzzle	Spaces of Play	May 16, 2017
+FutureGrind	Action	Milkbag Games	2018
+Futuridium EP Deluxe	Shooter, puzzle	MixedBag Games	Sep 30, 2014
+Galak-Z: The Dimensional	Shooter	17-Bit	Aug 5, 2015
+Gal*Gun: Double Peace	Rail shooter	Alchemist	Mar 11, 2016
+Gal*Gun 2	Rail shooter	Inti Creates	Apr 13, 2018
+Gal Gunvolt	Platform	Inti Creates	Unreleased
+Game of Thrones	Graphic adventure	Telltale Games	Dec 3, 2014
+Gang Beasts	Party	Double Fine Prod.	Dec 12, 2017
+The Gardens Between	Puzzle	The Voxel Agents	Sep 20, 2018
+Garou: Mark of the Wolves	Fighting	SNK Playmore	Dec 3, 2016
+Gas Guzzlers Extreme	Vehicular combat	Iceberg Int.	2018
+Gauntlet: Slayer Edition	Hack and slash	Warner Bros Int Ent	Aug 11, 2015
+Gemini: Heroes Reborn	Action-adventure	Phosphor Games	Jan 27, 2016
+Gem Smashers	Puzzle	Funbox Media	Feb 24, 2017
+Generation Zero	Action	Avalanche Studios	2019
+Gensō No Rondo	2D arena fighter	PlayDoujin	Unreleased
+Geometry Wars 3: Dimensions	Multidirectional shooter	Sierra Ent	Nov 25, 2014
+Get Even	First-person shooter	Bandai Namco Ent.	Jun 23, 2017
+Ghost Blade HD	Action	2Dream	Feb 28, 2017
+Ghost of a Tale	Adventure, stealth	SeithCG	Feb 2019
+Ghost of Tsushima	Action, open world	Sony Interactive Ent.	TBA
+Giana Sisters: Twisted Dreams - Director's Cut	Platform	Black Forest Games	Dec 9, 2014
+Girls und Panzer: Dream Tank Match	Action	Bandai Namco Ent.	Unreleased
+Glitched	RPG	En House Studios	TBA
+Gnog	Adventure, puzzle	Ko-Op	Unreleased
+Goat Simulator	Action	Coffee Stain Studios	Aug 11, 2015
+God Eater Resurrection	Action RPG	Bandai Namco Ent.	Aug 30, 2016
+God Eater 2: Rage Burst	Action RPG	Bandai Namco Ent.	Aug 30, 2016
+God Eater 3	Action RPG	Bandai Namco Ent.	Q1 2019
+God of War III Remastered	Action-adventure	Sony Computer Ent.	Jul 15, 2015
+God of War	Action-adventure	Sony Interactive Ent.	Apr 20, 2018
+Godling	First-person adventure	Solfar Studios	TBA
+God Wars: Future Past	Tactical RPG	Kadokawa Games	Jun 16, 2017
+Godzilla: The Game	Action-adventure	Bandai Namco Ent.	Jul 14, 2015
+The Golf Club	Sport	HB Studios	Aug 26, 2014
+The Golf Club 2	Sport	HB Studios	Jun 27, 2017
+Gone Home	Adventure	Midnight City	Feb 12, 2016
+Goosebumps: The Game	Point-and-click adventure	WayForward	Oct 13, 2015
+Graceful Explosion Machine	Shoot 'em up	Vertex Pop	Aug 8, 2017
+Granblue Fantasy Project Re: Link	RPG	Cygames	TBA
+Grand Ages: Medieval	Strategy	Kalypso Media	Oct 9, 2015
+Grand Kingdom	Tactical RPG	Spike Chunsoft	Jun 17, 2016
+Grand Prix Rock N Racing	Racing	Unfinished Pixel	Oct 7, 2016
+Grand Theft Auto V	Action-adv, open world	Rockstar Games	Nov 18, 2014
+Gran Turismo Sport	Racing	Sony Computer Ent.	Oct 18, 2017
+Grave	Survival horror	Broken Window Studios	TBA
+Gravel	Racing	Milestone S.r.l.	Feb 27, 2018
+Gravity Ghost	Puzzle	Ivy Games	TBA
+Gravity Rush Remastered	Action RPG	Sony Computer Ent.	Feb 10, 2016
+Gravity Rush 2	Action RPG	Sony Interactive Ent.	Jan 20, 2017
+Gray Dawn	Adventure, horror		TBA
+Greedfall	Action RPG	Focus Home Int.	2019
+Grim Legends: The Forsaken Bride	Hidden object	Artifex Mundi	Feb 28, 2017
+Grip: Combat Racing	Racing	Caged Element	Nov 6, 2018
+Grim Fandango Remastered	Graphic adventure	Disney Int. Studios	Jan 28, 2015
+Grow Home	Adventure, platform	Ubisoft	Sep 1, 2015
+Grow Up	Adventure	Ubisoft	Aug 16, 2016
+Guacamelee! Super Turbo Championship Edition	Action-adv, platform	DrinkBox Studios	Jul 2, 2014
+Guacamelee! 2	Platform, beat 'em up	DrinkBox Studios	Aug 21, 2018
+Guardians of the Galaxy: The Telltale Series	Graphic adventure	Telltale Games	Apr 18, 2017
+Guardians of the Rose	2D, RPG	Pixel x Pixel Games	TBA
+Guilty Gear Xrd: Sign	Fighting	Aksys Games	Jun 3, 2015
+Guilty Gear Xrd: Revelator	Fighting	Arc System Works	Jun 10, 2016
+Guitar Hero Live	Music, rhythm	Activision	Oct 23, 2015
+Gundam Breaker 3	Mech-combat	Bandai Namco Ent.	Unreleased
+New Gundam Breaker	Mech-combat	Bandai Namco Ent.	Jun 22, 2018
+SD Gundam G Generation Genesis	Strategy RPG	Bandai Namco Ent.	TBA
+Gundam Versus	Mech-combat	Bandai Namco Ent.	Sep 29, 2017
+Gungrave G.O.R.E.	Third-person shooter	Iggymob	TBA
+Gunhead	Action, shooter	Alientrap	2018
+Guns, Gore and Cannoli	Action, platform	Crazy Monkey Studios	Dec 8, 2015
+Guns, Gore and Cannoli 2	Action, platform	Crazy Monkey Studios	TBA
+Gunscape	First-person shooter	Blowfish Studios	Mar 1, 2016
+Guns of Icarus Alliance	Action, strategy	Muse Games	May 1, 2018
+Gunsport	Sport	Iron Galaxy Studios	TBA
+H-Hour: World's Elite	Tactical shooter	SOF Studios	TBA
+H1Z1: King of the Kill	MMO, deathmatch	Daybreak Game Company	TBA
+Habitat: A Thousand Generations in Orbit	Strategy	4gency	TBA
+.hack//G.U. Last Recode	Action RPG	Bandai Namco Ent.	Nov 3, 2017
+Hakoniwa Company Works	RPG, sandbox	Nippon Ichi Software	Unreleased
+Hand of Fate	Action RPG	Defiant Development	Feb 17, 2015
+Hand of Fate 2	Action RPG	Defiant Development	Nov 7, 2017
+Hard Reset: Redux	First-person shooter	Gambitious Ent	Jun 3, 2016
+Hardware: Rivals	Vehicular combat	Sony Computer Ent.	Jan 5, 2016
+Harvest Moon: Light of Hope Special Edition	RPG, simulation	Natsume	Jun 22, 2018
+Hatoful Boyfriend	Visual novel	Devolver Digital	Jul 22, 2015
+Hatsune Miku: Project DIVA Future Tone	Rhythm	Sega	Jan 10, 2017
+Hatsune Miku: Project DIVA X	Rhythm	Sega	Aug 30, 2016
+Headlander	Action-adventure	Adult Swim Games	Jul 26, 2016
+Headsnatchers	Action, party	Iceberg Int.	2018
+Heart&Slash	3D brawler	BadLand Games	Jun 24, 2016
+Heart Forth, Alicia	Action RPG	TBA	TBA
+Heaven's Vault	Adventure	Inkle Studios	2018
+Heavy Rain	Interactive drama	Sony Computer Ent.	Mar 2, 2016
+Hellblade: Senua's Sacrifice	Action, hack and slash	Ninja Theory	Aug 8, 2017
+Helldivers	Shoot 'em up	Sony Computer Ent.	Mar 4, 2015
+Here They Lie	Horror	Sony Interactive Ent.	Oct 13, 2016
+Her Majesty's Spiffing	Point-and-click adventure	Billy Goat Ent.	Dec 13, 2016
+Hero Defense	Tower defense	Headup Games	2018
+Hero Siege	Action RPG, hack and slash, roguelike,	Panic Art Studios	TBA
+Hidden Agenda	Interactive drama	Sony Interactive Ent.	Oct 24, 2017
+Hitman	Action, stealth	Square Enix	Mar 11, 2016
+Hitman 2	Stealth	Warner Bros. Entertainment	Nov 13, 2018
+Hitman Go	Puzzle	Square Enix	Feb 23, 2016
+Hob	Action-adventure	Sony Interactive Entertainment	Sep 26, 2017
+Hohokum	Adventure	Sony Computer Entertainment	Aug 13, 2014
+Hollow Knight	Metroidvania	Team Cherry	Sep 26, 2018
+Home	Survival horror	Benjamin Rivers	Apr 15, 2015
+Home Free	RPG	TBA	TBA
+Homefront: The Revolution	First-person shooter	Deep Silver	May 20, 2016
+The Hong Kong Massacre	Shooter	Captain Rogue	2018
+HoPiKo	Platform	Merge Games	Sep 21, 2016
+Horizon Chase Turbo	Racing	Aquiris Studio	May 15, 2018
+Horizon Zero Dawn	Action RPG	Sony Interactive Entertainment	Mar 1, 2017
+Hotchkiss [ja]	Visual novel	TGL	Unreleased
+Hotline Miami	Top-down shooter	Devolver Digital	Aug 20, 2014
+Hotline Miami 2: Wrong Number	Top-down shooter	Devolver Digital	Mar 11, 2015
+Hover: Revolt of Gamers	Platform	The Sidekicks	TBA
+How To Survive: Storm Warning Edition	Action RPG, survival	505 Games	Oct 29, 2014
+How to Survive 2	Action RPG, survival	505 Games	Feb 6, 2017
+Hue	Puzzle platformer	Curve Digital	Aug 30, 2016
+The Hum: Abductions	Survival horror	Totwise Studios	TBA
+Human: Fall Flat	Physics, puzzle	Curve Digital	Unreleased
+Hunt: Showdown	Action RPG	Crytek	TBA
+The Huntsman: Winter's Curse	Adventure, RPG	Desert Owl Games	Aug 23, 2016
+Hyperdrive Massacre	Racing	34BigThings	TBA
+Hyper Light Drifter	Action RPG	Heart Machine	Jul 26, 2016
+Hyper Void	Shooter	IN|Framez	Sep 8, 2015
+I Am Bread	Puzzle	Bossa Studios	Aug 25, 2015
+I Am Setsuna	RPG	Square Enix	Jul 19, 2016
+Icey	Side-scroller	X.D. Network	Unreleased
+Iconoclasts	Action, platform	Bifrost Entertainment	Jan 23, 2018
+The Idolmaster Platinum Stars	Music, rhythm	Bandai Namco Entertainment	Unreleased
+The Idolmaster: Stella Stage	Music, rhythm	Bandai Namco Entertainment	Unreleased
+Ikaruga	Shoot 'em up	Nicalis	Jun 29, 2018
+Impact Winter	Survival	Bandai Namco Entertainment	Apr 5, 2018
+Immortal Redneck	Shooter	CremaGames	Feb 27, 2018
+Immortal: Unchained	Shooter	Toadman Interactive	2018
+Inazuma Eleven Ares	Role-playing, sports	Level-5	2019
+The Incredible Adventures of Van Helsing	Action RPG	NeocoreGames	Mar 1, 2017
+The Incredible Adventures of Van Helsing II	Action RPG	NeocoreGames	Aug 8, 2017
+Industry Giant II	Business simulation	UIG Entertainment	Dec 20, 2016
+Indivisible	Action RPG	505 Games	2019
+Infamous First Light	Action-adventure	Sony Computer Entertainment	Aug 27, 2014
+Infamous Second Son	Action-adventure	Sony Computer Entertainment	Mar 21, 2014
+Infinifactory	Puzzle	Zachtronics	Dec 22, 2015
+Infinite Minigolf	Sport	Zen Studios	Jul 25, 2017
+Infinium Strike	Tower defense	Codex Worlds	TBA
+Injustice: Gods Among Us Ultimate Edition	Fighting	Warner Bros Int. Ent.	Nov 29, 2013
+Injustice 2	Fighting	Warner Bros Int. Ent.	May 16, 2017
+The Inner World	Point-and-click adventure	Headup Games	Mar 31, 2017
+The Inpatient	Interactive drama	Sony Interacive Ent.	Jan 24, 2018
+Insane Robots	Turn-based strategy	Playniac	TBA
+Inside	Platform	Playdead	Aug 23, 2016
+Inside My Radio	Platform, rhythm	Iceberg Int	May 11, 2015
+Insurgency: Sandstorm	First-person shooter	Focus Home Int.	2019
+In the Shadows	Platform, puzzle	Colorspace Studio	2018
+Inversus	Action, puzzle	Hypersect	Aug 17, 2016
+Invisible, Inc.	Turn-based tactics	Klei Ent.	Apr 19, 2016
+iO	Platform, puzzle	Gamious	Feb 14, 2017
+Ironcast	Puzzle, strategy	Dreadbit	Mar 2, 2016
+Ironclad Tactics	Strategy	Zachtronics	Jan 20, 2015
+Iron Crypticle	RPG, shooter	Tikipod	Jul 11, 2017
+Iron Harvest: 1920+	Real-time strategy	King Art Games	2018
+Iron Sea Defenders	Tower defense	8 Floor Games	Jun 14, 2017
+Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combat	Action RPG	5pb.	Unreleased
+Ittle Dew 2	Action-adventure	Nicalis	Nov 15, 2016
+J-Stars Victory VS	Fighting	Bandai Namco Ent.	Jun 26, 2015
+The Jackbox Party Pack	Party, trivia	Jackbox Games	Jun 2, 2015
+The Jackbox Party Pack 2	Party, trivia	Jackbox Games	Oct 13, 2015
+The Jackbox Party Pack 3	Party, trivia	Jackbox Games	Oct 19, 2016
+The Jackbox Party Pack 4	Party, trivia	Jackbox Games	Oct 20, 2017
+The Jackbox Party Pack 5	Party, trivia	Jackbox Games	Oct 16, 2018
+Jamestown+	Shoot 'em up	Final Form Games	Mar 17, 2015
+Jazzpunk: Director's Cut	Adventure, art	Adult Swim Games	Oct 19, 2016
+Jenny LeClue - Detectivú	Adventure, puzzle	Mografi	Q1 2019
+Jeopardy!	Card & Board	Ubisoft	Nov 7, 2017
+Jet Car Stunts	Racing	Grip Digital	May 6, 2014
+Jetpack Joyride	Platform	Big Ant Studios	Apr 26, 2016
+Jikkyou Powerful Pro Baseball	Sport	Konami	Unreleased
+Joe Dever's Lone Wolf	RPG	505 Games	Mar 16, 2016
+JoJo's Bizarre Adventure: Eyes of Heaven	Fighting	Bandai Namco Ent.	Jul 1, 2016
+Jotun: Valhalla Edition	Action-adventure	Thunder Lotus Games	Sep 9, 2016
+Journey	Action-adventure	Sony Computer Ent.	Jul 21, 2015
+Joysound Dive 2	Karaoke, music	Xing Ent	Unreleased
+Jump Force	Fighting	Bandai Namco Ent.	Feb 15, 2019
+Jump Stars	Action, party	Curve Digital	Jun 9, 2017
+Jurassic World Evolution	Simulation	Frontier Developments	Jun 12, 2018
+Just Cause 3	Action-adventure	Square Enix	Dec 1, 2015
+Just Cause 4	Action-adventure	Square Enix	Dec 4, 2018
+Just Dance 2014	Music, rhythm	Ubisoft	Nov 29, 2013
+Just Dance 2015	Music, rhythm	Ubisoft	Oct 23, 2014
+Just Dance 2016	Music, rhythm	Ubisoft	Oct 22, 2015
+Just Dance 2017	Rhythm	Ubisoft	Oct 27, 2016
+Just Dance 2018	Rhythm	Ubisoft	Oct 27, 2017
+Just Dance 2019	Rhythm	Ubisoft	Oct 23, 2018
+Just Deal With It!	Card game, party	Sony Interactive Ent.	Nov 14, 2018
+Kamen Rider: Battride War Genesis	Action, beat 'em up	Bandai Namco Ent.	Unreleased
+Karumaruka Circle	Visual novel	Entergram	Unreleased
+Kentucky Route Zero	Adventure	Annapurna Interactive	2018
+Kerbal Space Program	Simulation	Squad	Unreleased
+Kero Blaster	Platform	Playism	Apr 11, 2017
+Kholat	Survival horror	Imgn.Pro	Jun 9, 2015
+Kick Off Revival	Sport	The Digital Lounge	Jun 24, 2016
+KickBeat: Special Edition	Music, rhythm	Zen Studios	Sep 16, 2014
+Killing Floor 2	First-person shooter	Iceberg Int.	Nov 18, 2016
+Killzone Shadow Fall	First-person shooter	Sony Computer Ent.	Nov 29, 2013
+King Oddball	Puzzle	10tons	Apr 1, 2014
+The King of Fighters '97 Global Match	Fighting	SNK Playmore	Apr 3, 2018
+The King of Fighters XIV	Fighting	SNK Playmore	Aug 26, 2016
+Kingdom Come: Deliverance	Action RPG	Deep Silver	Feb 13, 2018
+Kingdom Hearts HD 1.5 + 2.5 Remix	Action RPG	Square	Mar 31, 2017
+Kingdom Hearts HD 2.8 Final Chapter Prologue	Action RPG	Square Enix	Jan 24, 2017
+Kingdom Hearts III	Action RPG	Square Enix	Jan 29, 2019
+Kingdom Two Crowns: Shogun	Adventure	Raw Fury	Dec 11, 2018
+King's Quest	Adventure	Sierra Ent	Jul 28, 2015
+Kissbell [ja]	Visual novel	TGL	Unreleased
+Klaus	Platform	La Cosa Ent	Jan 25, 2016
+Knack	Platform, beat 'em up	Sony Computer Ent.	Nov 29, 2013
+Knack 2	Platform, beat 'em up	Sony Interactive Ent.	Sep 5, 2017
+Knights and Bikes	Adventure, platform	Double Fine Productions	TBA
+Knock Knock	Adventure, horror	Ice-Pick Lodge	Sep 10, 2015
+Knot	Puzzle	Warlock Arts	Jul 19, 2016
+Knowledge is Power	Party, quiz	Sony Interactive Ent.	Nov 22, 2017
+Knowledge is Power: Decades	Party, quiz	Sony Interactive Ent.	Nov 14, 2018
+Kodoku	Survival horror, stealth	Carnivore Studio	TBA
+Koi	Adventure, puzzle	Oasis Games	May 3, 2016
+Koihime Enbu	Fighting	BaseSon	Unreleased
+Kona	Adventure	Parabole Studios	Mar 17, 2017
+Kromaia Omega	Shoot 'em up	Rising Star Games	Nov 10, 2015
+Kunio-kun: The World Classics Collection	Various	Arc System Works	Unreleased
+LA Cops	Action	Team17	Apr 22, 2015
+L.A. Noire	Action-adventure	Rockstar Games	Nov 14, 2017
+Langrisser I & II HD Remastered	Tactical role-playing	Kadokawa Games	Unreleased
+Lara Croft and the Temple of Osiris	Action, platform	Square Enix	Dec 9, 2014
+Lara Croft Go	Puzzle	Square Enix	Dec 3, 2016
+Laser League	Action	505 Games	May 10, 2018
+Laserlife	Rhythm	Choice Provisions	Sep 22, 2015
+The Last Blade 2	Fighting	SNK Playmore	May 24, 2016
+Last Day of June	Adventure, puzzle	505 Games	Aug 31, 2017
+The Last Guardian	Adventure	Sony Interactive Ent.	Dec 7, 2016
+The Last of Us Remastered	Action-adventure	Sony Computer Ent.	Jul 30, 2014
+The Last of Us: Left Behind	Action-adventure	Sony Computer Ent.	May 12, 2015
+The Last of Us Part II	Action-adventure	Sony Interactive Ent.	TBA
+The Last Tinker: City of Colors	3D Platform	Unity Games	Aug 20, 2014
+LawBreakers	First-person shooter	Nexon	Aug 8, 2017
+Laws of Machine	Platform, puzzle	Badri Bebua	Oct 17, 2017
+Layers of Fear	Adventure, horror	Bloober Team	Feb 16, 2016
+Leap of Fate	Action, rogue-like	Clever-Plays	Unreleased
+Leaving Lyndow	Adventure	Eastshade Studios	Unreleased
+Left Alive	Action, survival	Square Enix	Mar 5, 2019
+The Legend of Heroes	RPG	Nihon Falcom	Unreleased
+The Legend of Heroes: Trails of Cold Steel II	RPG	Nihon Falcom	Q1 2019
+The Legend of Heroes: Trails of Cold Steel III	RPG	Nihon Falcom	Unreleased
+The Legend of Heroes: Trails of Cold Steel IV	RPG	Nihon Falcom	Unreleased
+Legend of Kay Anniversary	Platform	Nordic Games	Jul 28, 2015
+The Legend of Korra	Action-adventure	Activision	Oct 22, 2014
+Lego Batman 3: Beyond Gotham	Action-adventure	Warner Bros Ent.	Nov 14, 2014
+Lego City Undercover	Action-adventure	Warner Bros Ent.	Apr 7, 2017
+Lego DC Super-Villains	Action-adventure	Warner Bros Ent.	Oct 19, 2018
+Lego Dimensions	Action-adventure	Warner Bros Ent.	Sep 29, 2015
+Lego Harry Potter Collection Remastered	Action-adventure	Warner Bros Ent.	Oct 21, 2016
+The Lego Movie Videogame	Action-adventure	Warner Bros Ent.	Feb 7, 2014
+The Lego Ninjago Movie Video Game	Action-adventure	Warner Bros Ent.	Sep 22, 2017
+Lego The Hobbit	Action-adventure	Warner Bros Ent.	Apr 11, 2014
+Lego Jurassic World	Action-adventure	Warner Bros Ent.	Jun 2, 2015
+Lego Marvel Super Heroes	Action-adventure	Warner Bros Ent.	Nov 29, 2013
+Lego Marvel Super Heroes 2	Action-adventure	Warner Bros Ent.	Nov 14, 2017
+Lego Marvel's Avengers	Action-adventure	Warner Bros Ent.	Jan 16, 2016
+Lego Star Wars: The Force Awakens	Action-adventure	Warner Bros Ent.	Jun 28, 2016
+Lego Worlds	Action-adventure	Warner Bros Ent.	Mar 4, 2017
+Leo's Fortune: HD Edition	Platform, puzzle	1337 & Senri	Sep 8, 2015
+Lethal League	Fighting	Team Reptile	May 10, 2017
+Lethal League Blaze	Fighting	Team Reptile	2018
+Letter Quest: Grimm's Journey Remastered	Puzzle	Digerati	May 18, 2016
+Let Them Come	Shooter	Versus Evil	Dec 8, 2017
+Lichdom: Battlemage	Action RPG	Maximum Games	Apr 22, 2016
+Lichtspeer	Action	Lichthund	Sep 29, 2016
+Life Goes On: Done to Death	Platform, puzzle	Infinite Monkeys Ent.	May 17, 2016
+Life Is Strange	Action-adventure	Square Enix	Jan 30, 2015
+Life Is Strange 2	Adventure	Square Enix	Sep 26, 2018
+Life Is Strange: Before the Storm	Action-adventure	Square Enix	Aug 31, 2017
+Limbo	Platform	Playdead	Feb 24, 2015
+Linelight	Puzzle	My Dog Zorro	2018
+Lithium: Inmate 39	Horror, puzzle	CanuArts	May 31, 2017
+The Little Acre	Graphic adventure	Curve Digital	Dec 13, 2016
+LittleBigPlanet 3	Platform, puzzle	Sony Computer Ent.	Nov 19, 2014
+Little Devil Inside	Action-adventure	TBA	TBA
+Little Nightmares	Action-adventure	Bandai Namco Ent.	Apr 28, 2017
+Little Witch Academia: Chamber of Time	JRPG	Bandai Namco Ent.	May 15, 2018
+Livelock	Shoot 'em up	Perfect World	Aug 31, 2016
+Lock's Quest	Real-time strategy	THQ Nordic	May 30, 2017
+LocoRoco Remastered	Platform, puzzle	Sony Interactive Ent.	May 9, 2017
+LocoRoco 2 Remastered	Platform, puzzle	Sony Interactive Ent.	Dec 9, 2017
+Lone Survivor: Director's Cut	Survival horror	Superflat Games	Oct 14, 2014
+The Long Dark	Survival	Hinterland Studio	Aug 1, 2017
+Loot Rascals	Roguelike	Hollow Ponds	2018
+Lords of the Fallen	Action RPG	City Interactive	Oct 28, 2014
+Lost Castle	RPG	Another Indie	TBA
+Lost Sea	Action-adventure	eastasiasoft	Jul 5, 2016
+Lost Soul Aside	Action	Ultizero Co.	2018
+Lost Sphear	JRPG	Square Enix	Jan 23, 2018
+Lovers in a Dangerous Spacetime	2D platform, action	Asteroid Base	Feb 9, 2016
+Lumines Remastered	Puzzle	Enhance Games	Jun 26, 2018
+Lumo	Action-adventure	Rising Star Games	May 24, 2016
