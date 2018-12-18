@@ -11,8 +11,6 @@ CREATE TABLE joueur(
   nom varchar(50),
   date_naissance DATE,
   sexe varchar(3)
-
-
 );
 
 DROP TABLE IF EXISTS score;
@@ -113,7 +111,7 @@ LOAD DATA LOCAL INFILE "/Users/alisaidomar/generate_sql_data/room.csv"
 
 -- calcul to top X
 -- TOP X des top gamer
-select room.id_joueur, nom, SUM(MINUTE(date_debut - date_fin)) as duree
+select room.id_joueur, nom, SUM(MINUTE(date_fin - date_debut)) as duree
 from partie,
      room,
      joueur
@@ -121,26 +119,33 @@ where joueur.id_joueur = room.id_joueur
   AND partie.id_room = room.id_room
 group by room.id_joueur
 order by duree desc
-limit 10;
+limit 100;
 
 -- 100 premiers joueurs aux points
-select joueur.name, SUM(score.score) as score_tot from score, joueur
+select joueur.prenom, SUM(score.score) as score_tot from score, joueur
 WHERE score.id_joueur = joueur.id_joueur
 group by score.id_joueur
 order by score_tot desc
 limit 100;
 
--- TOP des jeux les plus joués
+select * from score order by id_joueur limit  100;
+
+-- TOP des jeux les plus joués heure de jeux
 select nom, SUM(MINUTE(date_fin - date_debut)) as tot_jeu from jeu_l, partie
 where jeu_l.id_jeu = partie.id_jeu
 group by partie.id_jeu
 order by  tot_jeu desc LIMIT 100;
 
 -- TOP des jeux en terme de joueurs
-select nom, COUNT(room.id_joueur) as tot_joueur from jeu_l, partie, room where room.id_room = partie.id_room
-and jeu_l.id_jeu = partie.id_jeu
+select nom, COUNT(room.id_joueur) as tot_joueur
+from jeu_l,
+     partie,
+     room
+where room.id_room = partie.id_room
+  and jeu_l.id_jeu = partie.id_jeu
 group by jeu_l.id_jeu
-order by tot_joueur desc LIMIT 100;
+order by tot_joueur desc
+LIMIT 100;
 
 
 -- top editeurs en terme d'heure de jeux
