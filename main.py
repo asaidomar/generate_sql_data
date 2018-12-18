@@ -129,13 +129,13 @@ def generate_int(start=1, end=2000, nb_int=1):
     return result
 
 
-def generate_date(number_of_day=0, max_year=5, nb_date=1):
+def generate_date(number_of_day=0, max_year=5, nb_date=1, from_date=datetime.datetime.now()):
     result = list()
     previous_date = None
     for i in range(int(nb_date)):
         number_of_days = int(number_of_day) or random.randint(1, 365 * max_year)
         if previous_date is None:
-            past_day_obj = datetime.datetime.now() - datetime.timedelta(days=number_of_days)
+            past_day_obj = from_date - datetime.timedelta(days=number_of_days)
         else:
             # up to 180 minutes
             past_day_obj = previous_date + datetime.timedelta(minutes=random.randint(1, 60 * 3))
@@ -170,14 +170,18 @@ def convert_list_to_str(*lists, sep=","):
     return sep.join([repr(str(s)) for s in result if s])
 
 
-def generate_player(nb_player=100):
-    heade_tab = ["name", "alias", "date", "score"]
-    for i in range(nb_player):
-        names = generate_name(nb_name=2)
-        date_ = generate_date(nb_date=1)
-        score = generate_int(start=1, end=10, nb_int=1)
-        row = convert_list_to_str([i], names, date_, score, sep="\t")
+def generate_player(nb_player=10000):
+    heade_tab = ["id_player", "speudo", "mdp", "prenom", "nom", "date_naissance", "sexe"]
+    for i in range(1, nb_player):
+        names = generate_name(nb_name=4)
+        random_age = random.randint(11, 35)
+        from_date = (datetime.datetime.now() - datetime.timedelta(days=365 * random_age))
+        date_ = generate_date(nb_date=1, from_date=from_date)
+        # score = generate_int(start=1, end=10, nb_int=1)
+        sexe = random.choice(["M", "F", "NA"])
+        row = convert_list_to_str([i], names, date_, sexe, sep="\t")
         print(row)
+
 
 def generate_partie(nb_player=100):
     heade_tab = ["id_partie", "id_room", "date_start", "date_end"]
@@ -191,7 +195,8 @@ def generate_partie(nb_player=100):
 
 
 def main():
-    generate_partie()
+    generate_player()
+
 
 
 if __name__ == '__main__':
