@@ -131,11 +131,18 @@ def generate_int(start=1, end=2000, nb_int=1):
 
 def generate_date(number_of_day=0, max_year=5, nb_date=1):
     result = list()
-    for _ in range(int(nb_date)):
+    previous_date = None
+    for i in range(int(nb_date)):
         number_of_days = int(number_of_day) or random.randint(1, 365 * max_year)
-        past_day_obj = datetime.datetime.now() - datetime.timedelta(days=number_of_days)
+        if previous_date is None:
+            past_day_obj = datetime.datetime.now() - datetime.timedelta(days=number_of_days)
+        else:
+            # up to 180 minutes
+            past_day_obj = previous_date + datetime.timedelta(minutes=random.randint(1, 60 * 3))
+
         past_day_str = past_day_obj.strftime("%Y-%m-%d %H:%M:%S")
         result.append(past_day_str)
+        previous_date = past_day_obj
     return result
 
 
@@ -172,9 +179,19 @@ def generate_player(nb_player=100):
         row = convert_list_to_str([i], names, date_, score, sep="\t")
         print(row)
 
+def generate_partie(nb_player=100):
+    heade_tab = ["id_partie", "id_room", "date_start", "date_end"]
+    for i in range(1, nb_player):
+        # names = generate_name(nb_name=2)
+        id_room = random.randint(1, i or 2)
+        date_s = generate_date(nb_date=2)
+        # score = generate_int(start=1, end=10, nb_int=1)
+        row = convert_list_to_str([i], [id_room], date_s, sep="\t")
+        print(row)
+
 
 def main():
-    generate_player()
+    generate_partie()
 
 
 if __name__ == '__main__':
