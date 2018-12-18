@@ -196,7 +196,7 @@ def generate_partie(nb_jeu=871):
             id_room = "%d%d" % (i, j)
             date_s = generate_date(nb_date=2)
             # score = generate_int(start=1, end=10, nb_int=1)
-            row = convert_list_to_str([id_room], date_s, sep="\t")
+            row = convert_list_to_str([i], [id_room], date_s, sep="\t")
             ids_room.append(str(id_room))
             print(row, file=part_file)
     return ids_room
